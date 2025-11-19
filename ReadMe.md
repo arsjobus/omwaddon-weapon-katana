@@ -5,12 +5,15 @@ A sleek katana weapon mod for **The Elder Scrolls III: Morrowind** using **OpenM
 ### Installation (Manual)
 
 1) Copy the **textures** folder contents into:
+
 `Data Files/textures`
 
 2. Copy the **meshes** folder contents into:  
+
 `Data Files/meshes`
 
 3. Copy the 'weapon-katana.omwaddon' file into:  
+
 `Data Files`
 
 And you’re done! The katana should now be available in-game.  
