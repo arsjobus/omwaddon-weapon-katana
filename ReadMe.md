@@ -37,6 +37,10 @@ Note: [Read more](https://openmw.readthedocs.io/en/latest/reference/modding/text
 
 It can be picked-up under the long bridge in Seyda Neen (Starting area).
 
+Alternatively, spawn it into your inventory with console command:
+
+`player->addItem "katana_basic" 1`
+
 ---
 
 ## Notes
