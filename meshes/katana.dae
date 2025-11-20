@@ -13,14 +13,14 @@
   <library_effects>
     <effect id="default-effect">
       <profile_COMMON>
-        <newparam sid="katana_diffuse_dds-surface">
+        <newparam sid="katana_dds-surface">
           <surface type="2D">
-            <init_from>katana_diffuse_dds</init_from>
+            <init_from>katana_dds</init_from>
           </surface>
         </newparam>
-        <newparam sid="katana_diffuse_dds-sampler">
+        <newparam sid="katana_dds-sampler">
           <sampler2D>
-            <source>katana_diffuse_dds-surface</source>
+            <source>katana_dds-surface</source>
           </sampler2D>
         </newparam>
         <technique sid="common">
@@ -29,7 +29,7 @@
               <color sid="emission">0 0 0 1</color>
             </emission>
             <diffuse>
-              <texture texture="katana_diffuse_dds-sampler" texcoord="UVChannel_1"/>
+              <texture texture="katana_dds-sampler" texcoord="UVChannel_1"/>
             </diffuse>
             <index_of_refraction>
               <float sid="ior">1.5</float>
@@ -40,8 +40,8 @@
     </effect>
   </library_effects>
   <library_images>
-    <image id="katana_diffuse_dds" name="katana_diffuse_dds">
-      <init_from>textures/katana_diffuse.dds</init_from>
+    <image id="katana_dds" name="katana_dds">
+      <init_from>textures/katana.dds</init_from>
     </image>
   </library_images>
   <library_materials>
