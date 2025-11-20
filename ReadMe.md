@@ -40,4 +40,4 @@ specular map pattern = _spec
 ---
 
 ## Credits
-[Katana]((https://opengameart.org/content/katana-2) model and texture by [Colorado Stark](https://opengameart.org/users/colorado-stark) from OpenGameArt.
+[Katana](https://opengameart.org/content/katana-2) model and texture by [Colorado Stark](https://opengameart.org/users/colorado-stark) from OpenGameArt.
