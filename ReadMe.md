@@ -33,6 +33,12 @@ Note: [Read more](https://openmw.readthedocs.io/en/latest/reference/modding/text
 
 ---
 
+## Obtaining it
+
+It can be picked-up under the long bridge in Seyda Neen (Starting area).
+
+---
+
 ## Notes
 - Make sure OpenMW is installed and running the correct data folder.  
 - For best results, back up your game before installing mods.  
