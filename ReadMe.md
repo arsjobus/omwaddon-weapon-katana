@@ -28,7 +28,6 @@ auto use object specular maps = true
 normal map pattern = _n
 normal height map pattern = _nh
 specular map pattern = _spec
-
 ```
 
 ---
