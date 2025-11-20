@@ -18,9 +18,9 @@ A sleek katana weapon mod for **The Elder Scrolls III: Morrowind** using **OpenM
 
 And you’re done! The katana should now be available in-game.
 
-### Enable the Normal / Specular Maps
+### Enable the Normal / Specular Maps (Optional)
 
-In your settings.cfg file installed by OpenMW, add this configuration to the Shader section of the file:
+Add the following lines of configuration into the settings.cfg file initialized by OpenMW:
 
 ```
 auto use object normal maps = true
@@ -29,6 +29,7 @@ normal map pattern = _n
 normal height map pattern = _nh
 specular map pattern = _spec
 ```
+[Read more](https://openmw.readthedocs.io/en/latest/reference/modding/texture-modding/texture-basics.html#automatic-use) about Automatic Use technique to use normal and specular maps by OpenMW.
 
 ---
 
