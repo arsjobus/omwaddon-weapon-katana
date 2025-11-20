@@ -29,7 +29,7 @@ normal map pattern = _n
 normal height map pattern = _nh
 specular map pattern = _spec
 ```
-[Read more](https://openmw.readthedocs.io/en/latest/reference/modding/texture-modding/texture-basics.html#automatic-use) about Automatic Use technique to use normal and specular maps by OpenMW.
+Note: [Read more](https://openmw.readthedocs.io/en/latest/reference/modding/texture-modding/texture-basics.html#automatic-use) about Automatic Use technique to use normal and specular maps by OpenMW.
 
 ---
 
